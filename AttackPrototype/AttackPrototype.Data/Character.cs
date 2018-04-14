@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AttackPrototype.Data
 {
-    public class Class1
+    public class Character
     {
     }
 }
