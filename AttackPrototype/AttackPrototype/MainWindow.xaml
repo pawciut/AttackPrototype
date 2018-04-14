@@ -16,7 +16,9 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        
-        
+
+        <Canvas Grid.Row="0" Grid.ColumnSpan="3" Background="Beige">
+            
+        </Canvas>
     </Grid>
 </Window>
