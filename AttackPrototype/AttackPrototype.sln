@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackPrototype", "AttackPrototype\AttackPrototype.csproj", "{AF4FFF02-A2B0-4AD7-8587-DE67FF7D034E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackPrototype.Data", "AttackPrototype.Data\AttackPrototype.Data.csproj", "{3C9CA25A-8B93-42A7-8DB2-401862B7EB76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AF4FFF02-A2B0-4AD7-8587-DE67FF7D034E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4FFF02-A2B0-4AD7-8587-DE67FF7D034E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4FFF02-A2B0-4AD7-8587-DE67FF7D034E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9CA25A-8B93-42A7-8DB2-401862B7EB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9CA25A-8B93-42A7-8DB2-401862B7EB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9CA25A-8B93-42A7-8DB2-401862B7EB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9CA25A-8B93-42A7-8DB2-401862B7EB76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
