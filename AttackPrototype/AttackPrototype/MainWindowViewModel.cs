@@ -8,5 +8,6 @@ namespace AttackPrototype
 {
     public class MainWindowViewModel
     {
+
     }
 }
